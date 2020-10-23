@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[https://github.com/PimLleal/group-5--aspergillus-niger.git]/main)
 
 # 27410 - Group assignment - Group 5 - aspergillus niger
 
@@ -12,7 +12,7 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+Vitamin b3 production via aspergillus niger.
 
 ## Project overview
 Describe how your project is organized ...
